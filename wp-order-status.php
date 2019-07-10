@@ -3,7 +3,7 @@
 Plugin Name: WP Order Status
 Plugin URI: http://www.mywebsite.com/my-first-plugin
 Description: Con un Shortcode tu clientes podran ver el estado de sus pedidos
-Version: 0.1
+Version: 0.2
 Author: Nelson Herrera
 Author URI: https://www.soynelsonherrera.com
 */
